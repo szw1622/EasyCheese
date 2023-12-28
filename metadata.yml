@@ -1,0 +1,18 @@
+---
+:id: 153369232
+:submitters:
+- :name: JOSH BEATTY
+  :email: u1370215@utah.edu
+- :name: MATTHEW WHITAKER
+  :email: u1251812@utah.edu
+- :name: KEMING CHEN
+  :email: u1256974@utah.edu
+- :name: ZHUOWEN SONG
+  :email: u1313034@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-09 04:12:45.403023000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-08 20:12:45.403023000 Z
+:status: processed
+:score: 100.0

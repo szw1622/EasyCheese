@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/elements">
+        <file>robot-idle-right.gif</file>
+        <file>brickwall.jpg</file>
+        <file>question.png</file>
+        <file>robot-idle-left.gif</file>
+        <file>robot-run-left.gif</file>
+        <file>robot-run-right.gif</file>
+        <file>block.png</file>
+        <file>cheese.jpg</file>
+        <file>cheese.png</file>
+        <file>pit.png</file>
+        <file>robot-idle-down.gif</file>
+        <file>robot-idle-up.gif</file>
+        <file>robot-down.gif</file>
+        <file>robot-left.gif</file>
+        <file>robot-right.gif</file>
+        <file>robot-up.gif</file>
+    </qresource>
+</RCC>
