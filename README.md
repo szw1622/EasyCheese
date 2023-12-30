@@ -2,8 +2,11 @@
 
 ## Team Members
 Keming Chen @UKeming
+
 Zhuwoen Song @szw1622
+
 Matthew Whitaker @Sub6Resources
+
 Josh Beatty @Joshua-Beatty
 
 ## Project Intention
