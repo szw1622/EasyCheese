@@ -1,4 +1,11 @@
 # Easy Cheese
+
+## Team Members
+Keming Chen @UKeming
+Zhuwoen Song @szw1622
+Matthew Whitaker @Sub6Resources
+Josh Beatty @Joshua-Beatty
+
 ## Project Intention
 Easy Cheese is an interactive, visual drag-and-drop programming game developed using the Qt Creator platform and C++. The core objective of this initiative is to introduce K-12 students to fundamental programming language concepts, fostering a passion for coding from an early age.
 
